@@ -1,2 +1,5 @@
 # hello-world
-This is a repository
+
+Hi, I'm Ian.
+
+I don't have much time, so bye.
